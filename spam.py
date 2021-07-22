@@ -1,12 +1,13 @@
+
 import discord
 import time
 from discord.ext import commands
 client = discord.Client()
-message_number = 0
 
-token = "TOKEN HERE" # Insert your 0auth token here
+
+token = "TOKEN" # Insert your 0auth token here
 start = "START MESSAGE" # What is the trigger command
-message = "SPAM MESSAGE" # What message to spam
+megage = "SPAM MESSAGE" # What message to spam
 amount = 69 # How many times should the message repeated
 delay = 5 # Delay between messages
 
@@ -18,14 +19,15 @@ async def on_ready():
 @client.event
 async def on_message(message):
 
-
+    message_number = 0
     if message.content.startswith(f'{start}'):
 
-      while message_number <= amount:  
-        await message.channel.send(f'{message}')
-        print("Sent")
+       while message_number < amount: 
+        await message.channel.send(megage)
+        message_number += 1
+        print(f"Sent message numer {str(message_number)}")
         time.sleep(delay)
         
- 
-print("Done spamming.")
+    if message_number == amount: 
+        print("Done spamming.")
 client.run(token)
