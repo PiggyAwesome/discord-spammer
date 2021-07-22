@@ -1,4 +1,4 @@
-# discord-spammer
+# Discord-Spammer
 Discord selfbot to spam a message 
 
 ## 1. Install the selfbot module
