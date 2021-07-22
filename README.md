@@ -1,5 +1,5 @@
 # Discord-Spammer
-Discord selfbot to spam a message 
+Discord selfbot to spam a message a certain number of times
 
 ## 1. Install the selfbot module
 `pip install discord.py-self`
