@@ -13,7 +13,7 @@ tokens_directory = "" # Where to find tokens that should be spammed with
 
 Click the button that pops up to send your message!
 
-![image](https://user-images.githubusercontent.com/48888771/127731617-7ef5e957-fbad-46a0-8f5e-427a6eb5ab71.png)
+![](https://user-images.githubusercontent.com/48888771/127731617-7ef5e957-fbad-46a0-8f5e-427a6eb5ab71.png)
 
 
 
