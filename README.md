@@ -35,7 +35,7 @@ delay = 5 # Delay between messages
 
 ![image](https://user-images.githubusercontent.com/48888771/127731672-66604f8e-03ed-41bb-b23a-ec443969aa0a.png)
 
-
-##### Do not use this selfbots! It is against the Discord Terms of Service! I made and uploaded this spammer to show skids how easy it is to program in python. (Yes)
+### Only proof of concept! Do not use!
+##### Do not use this selfbot! It is against the Discord Terms of Service! I made and uploaded this spammer to show skids how easy it is to program in python. (Yes)
 ##### If you do use this selfbot, PiggyAwesome will not be held responsible if anything happens with your account or anything you used this selfbot for.
 
